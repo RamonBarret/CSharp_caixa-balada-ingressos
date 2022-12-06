@@ -1,0 +1,15 @@
+C:\Users\ramon\OneDrive\Documentos\Ramon\estudos.Ramon\CSharp_caixa-balada-ingressos\bin\Debug\net7.0\CSharp_caixa-balada-ingressos.exe
+C:\Users\ramon\OneDrive\Documentos\Ramon\estudos.Ramon\CSharp_caixa-balada-ingressos\bin\Debug\net7.0\CSharp_caixa-balada-ingressos.deps.json
+C:\Users\ramon\OneDrive\Documentos\Ramon\estudos.Ramon\CSharp_caixa-balada-ingressos\bin\Debug\net7.0\CSharp_caixa-balada-ingressos.runtimeconfig.json
+C:\Users\ramon\OneDrive\Documentos\Ramon\estudos.Ramon\CSharp_caixa-balada-ingressos\bin\Debug\net7.0\CSharp_caixa-balada-ingressos.dll
+C:\Users\ramon\OneDrive\Documentos\Ramon\estudos.Ramon\CSharp_caixa-balada-ingressos\bin\Debug\net7.0\CSharp_caixa-balada-ingressos.pdb
+C:\Users\ramon\OneDrive\Documentos\Ramon\estudos.Ramon\CSharp_caixa-balada-ingressos\obj\Debug\net7.0\CSharp_caixa-balada-ingressos.csproj.AssemblyReference.cache
+C:\Users\ramon\OneDrive\Documentos\Ramon\estudos.Ramon\CSharp_caixa-balada-ingressos\obj\Debug\net7.0\CSharp_caixa-balada-ingressos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\OneDrive\Documentos\Ramon\estudos.Ramon\CSharp_caixa-balada-ingressos\obj\Debug\net7.0\CSharp_caixa-balada-ingressos.AssemblyInfoInputs.cache
+C:\Users\ramon\OneDrive\Documentos\Ramon\estudos.Ramon\CSharp_caixa-balada-ingressos\obj\Debug\net7.0\CSharp_caixa-balada-ingressos.AssemblyInfo.cs
+C:\Users\ramon\OneDrive\Documentos\Ramon\estudos.Ramon\CSharp_caixa-balada-ingressos\obj\Debug\net7.0\CSharp_caixa-balada-ingressos.csproj.CoreCompileInputs.cache
+C:\Users\ramon\OneDrive\Documentos\Ramon\estudos.Ramon\CSharp_caixa-balada-ingressos\obj\Debug\net7.0\CSharp_caixa-balada-ingressos.dll
+C:\Users\ramon\OneDrive\Documentos\Ramon\estudos.Ramon\CSharp_caixa-balada-ingressos\obj\Debug\net7.0\refint\CSharp_caixa-balada-ingressos.dll
+C:\Users\ramon\OneDrive\Documentos\Ramon\estudos.Ramon\CSharp_caixa-balada-ingressos\obj\Debug\net7.0\CSharp_caixa-balada-ingressos.pdb
+C:\Users\ramon\OneDrive\Documentos\Ramon\estudos.Ramon\CSharp_caixa-balada-ingressos\obj\Debug\net7.0\CSharp_caixa-balada-ingressos.genruntimeconfig.cache
+C:\Users\ramon\OneDrive\Documentos\Ramon\estudos.Ramon\CSharp_caixa-balada-ingressos\obj\Debug\net7.0\ref\CSharp_caixa-balada-ingressos.dll
