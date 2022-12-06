@@ -8,7 +8,7 @@
 
 ### Linguagem de Programação - C# 
 
-<p align="justify">Esse sistema foi desenvolvido com a finalidade é efetuar a leitura das formas de pagamentos dos ingressos de uma balada (dinheiro, cheque ou cartão) e ao final o sistema vai exibir o total de ingressos lidos pelo sistema, a quantidade de pessoas que pagou com dinheiro cheque ou cartão e a receita total de ingressos vendidos. Código proposto em uma atividade da faculdade.
+<p align="justify">Esse sistema foi desenvolvido com a finalidade de efetuar a leitura das formas de pagamentos dos ingressos de uma balada (dinheiro, cheque ou cartão) e ao final o sistema vai exibir o total de ingressos lidos pelo sistema, a quantidade de pessoas que pagou com dinheiro cheque ou cartão e a receita total de ingressos vendidos. Código proposto em uma atividade da faculdade.
 </p>
 
 - [x] Elaboração de um sistema para contabilizar os ingressos vendidos em um balada e exibir as características das diferentes formas de pagamentos. Para ficar dinâmico a funcionalidade, cada forma de pagamento entre as opções que o programa sugere possuí diferentes valores.
