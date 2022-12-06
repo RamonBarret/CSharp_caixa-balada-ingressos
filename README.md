@@ -1,5 +1,5 @@
 
-## Código - Sistema para contabilizar Ingressos pagos de uma Balada 🎫 
+## Sistema para contabilizar ingressos pagos de uma balada 🎫 
 - [x] pagamentos e formas de pagamentos 💵 💳
   
 <p align="center">
@@ -20,7 +20,7 @@
   <img alt="Tela inicial código" src=".github/inicio.PNG">
 </p>
 
-### Preview - Inserindo dados no sistema 💻⬅
+### Preview - Inserindo os dados no sistema 💻⬅
 <p align="center">
   <img alt="Inserindo dados" src=".github/dados.PNG">
 </p>
@@ -34,7 +34,7 @@
   |      3     |    Cédulas  |  💲10   |       4      |
  
 
-## Preview - Compilação dos dados obtidos 👨🏽‍💻
+## Preview - Fechamento do caixa 👨🏽‍💻
 <p align="center">
   <img alt="Compilação dos dados" src=".github/compilacao.PNG">
 </p>
