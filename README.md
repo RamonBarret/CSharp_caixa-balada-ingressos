@@ -25,7 +25,7 @@
   <img alt="Inserindo dados" src=".github/dados.PNG">
 </p>
 
-- [x] Para facilitar a representação foi inserido dados de 10 clientes:  
+- [x] Para facilitar a representação foi inserido 10 vendas de tickets:  
   
   |   Código   |  Pagamento  |  Valor |  Quantidade  |
   |------------|-------------|--------|--------------|
